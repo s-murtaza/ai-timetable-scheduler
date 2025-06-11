@@ -82,9 +82,7 @@ com.kyalo.universitytimetabling
 
 ### Prerequisites
 
-- Java 11+
-- Maven
-- MySQL
+- Docker
 
 ### Installation
 
